@@ -1,0 +1,107 @@
+h1 {
+  text-align: center;
+}
+
+
+.btn-dikDik {
+  height: 200px;
+  width: 300px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: url("http://www.etoshanamibia.info/wp-content/uploads/2013/09/Damara-Dik-Dik.jpg");
+  background-size: cover;
+  border: 3px solid hotpink;
+  border-radius: 4px;
+}
+
+.btn-polarBear {
+  height: 200px;
+  width: 300px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: url("http://www.churchillwild.com/wp-content/uploads/2015/08/polarbearianjohnsonnanuk.jpg");
+  background-size: cover;
+  border: 3px solid green;
+  border-radius: 4px;
+}
+
+.btn-hippo {
+  height: 200px;
+  width: 300px;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/dc/8d/e0/dc8de0b124fbfc1865cb2daff109ce02.jpg");
+  background-size: cover;
+  border: 3px solid blue;
+  border-radius: 4px;
+}
+
+
+
+#dikDikInfo {
+  display: none;
+}
+
+#polarBearInfo {
+  display: none;
+}
+
+#hippoInfo {
+  display: none;
+}
+
+.col-styles {
+  text-align: center;
+}
+
+.info {
+  margin-top: 30px;
+}
